@@ -4,8 +4,6 @@ WebCola/compiledtypescript.js
 website/doc
 .tscachea
 website/.baseDir.ts
-website/examples/*.js
-website/*.js*
 .tscache
 npm-debug.log
 .vscode
